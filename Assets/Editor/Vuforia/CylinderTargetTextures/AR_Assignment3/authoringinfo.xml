@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<VuforiaUnityInfo version="7.0">
+    <TargetSet version="5.0" toolVersion="2.8.0">
+        <CylinderTarget name="pillar" version="3.0" targetId="7459ecbe6b994188bebe758b0b2ca95f" sideLength="0.150000" topDiameter="0.022000" bottomDiameter="0.022000" sideImage="pillar.Body_scaled.jpg" topImage="pillar.Top_scaled.jpg" bottomImage="pillar.Bottom_scaled.jpg"/>
+    </TargetSet>
+</VuforiaUnityInfo>

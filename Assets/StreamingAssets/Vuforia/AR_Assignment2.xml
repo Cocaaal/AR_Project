@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<QCARConfig>
+  <Tracking>
+    <ImageTarget name="fleurs_stylo" size="0.070000 0.066829" />
+    <ImageTarget name="fleurs" size="0.070000 0.076020" />
+    <ImageTarget name="europe" size="0.110000 0.090422" />
+    <ImageTarget name="carte" size="0.088000 0.066384" />
+    <ImageTarget name="rocks" size="0.068000 0.047600" />
+  </Tracking>
+</QCARConfig>
