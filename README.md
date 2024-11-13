@@ -5,4 +5,5 @@ Unity, Vuforia
 
 ### Vidéo :
 
-[![Watch the video](https://raw.githubusercontent.com/Cocaaal/AR_Project/main/THUMBNAIL.png)](https://raw.githubusercontent.com/Cocaaal/AR_Project/main/VIDEO.mp4)
+https://github.com/user-attachments/assets/101d3764-3a93-4adb-a604-5ebcc2504e1e
+
